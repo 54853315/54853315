@@ -5,7 +5,6 @@
 - 🙇🏻‍♀️ I’m currently learning everything 🤣   But most about DevOps(kubernetes side) and front-end technology
 - 🥳 I’m looking to collaborate with other content creators
 - 📷 Fun fact: I love to fishing and photography
-
 <br />
 
 ### Languages and Tools:
@@ -53,6 +52,12 @@
 <!-- ![InVision Badge][InVision-Badge] -->
 
 
+### My GitHub stats:
+
+<div style="display:flex;">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=54853315" width="500" alt="GitHub Streak Image" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=54853315&layout=compact" width="350" alt="Top Langs" />
+</div>
 
 
 <!-- #region Links -->
