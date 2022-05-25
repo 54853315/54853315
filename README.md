@@ -55,7 +55,8 @@
 ### My GitHub stats:
 
 <div style="display:flex;">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=54853315" width="500" alt="GitHub Streak Image" />
+<!--   <img src="http://github-readme-streak-stats.herokuapp.com?user=54853315" width="500" alt="GitHub Streak Image" /> -->
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=54853315&show_icons=true&theme=radical)
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=54853315&layout=compact" width="350" alt="Top Langs" />
 </div>
 
