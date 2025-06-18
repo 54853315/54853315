@@ -49,4 +49,6 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:konakona.xiong@gmail.com)
 [![Website](https://img.shields.io/badge/Website-222222?style=for-the-badge&logo=About.me&logoColor=white)](https://www.crazyphper.com)
+[![Google Photos](https://img.shields.io/badge/Google_Photos-4285F4?style=for-the-badge&logo=google-photos&logoColor=white)](https://photos.app.goo.gl/mfxL1NA6oS8UUiPY8)
+
 
