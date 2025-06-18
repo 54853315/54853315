@@ -7,7 +7,7 @@
 - 📷 Fun fact: I love to fishing and photography
 <br />
 
-### Tech Stacks:
+### Tech Stacks
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
@@ -36,7 +36,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-%23563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-%232088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-### My GitHub stats:
+### Stats
 
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=54853315&show_icons=true&theme=shades-of-purple)-->
 
