@@ -2,7 +2,7 @@
 
 ## I'm a Lesbian, Developer, and Freelancer
 
-- 🙇🏻‍♀️ I’m currently learning everything 🤣   But most about DevOps and AI technology
+- 🙇🏻‍♀️ I’m currently learning everything 🤣   Most about Web3 and AI technology
 - 🥳 I’m looking to collaborate with other content creators
 - 📷 Fun fact: I love to fishing and photography
 <br />
